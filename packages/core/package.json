@@ -111,8 +111,8 @@
     }
   },
   "dependencies": {
-    "@wagmi/chains": "workspace:../../references/packages/chains",
-    "@wagmi/connectors": "workspace:../../references/packages/connectors",
+    "@wagmi/chains": "0.1.14",
+    "@wagmi/connectors": "https://gitpkg.now.sh/0xAsimetriq/references/packages/connectors?main",
     "abitype": "^0.2.5",
     "eventemitter3": "^4.0.7",
     "zustand": "^4.3.1"
